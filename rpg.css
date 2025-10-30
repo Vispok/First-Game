@@ -1,0 +1,33 @@
+body {
+    background-color: brown;
+}
+.game {
+    background-color: lightgray;
+    max-width: 800px;
+    max-height: 600px;
+    margin: 250px auto;
+    padding: 10px;
+}
+.stats {
+    border: 2px black solid;
+    word-spacing: 5px;
+    padding: 2px;
+}
+.options {
+    border: 2px black solid;
+    padding: 5px;
+}
+#text {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    word-spacing: 5px;
+}
+.monster-stats {
+    display: none;
+    border: 2px black solid;
+    color: white;
+    padding: 10px;
+    background-color: blue;
+    margin: 1px;
+}
